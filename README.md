@@ -2,6 +2,8 @@
 
 After mount the Google drive to the Google Colab, make sure the JordanDataset100x100 directory to located in /content/drive/My Drive/JordanDataset100x100
 
+Jordan Shoes design generator powered by DCGAN code on jupyter notebook, With jordan shoes picture trainig data set. 
+
 I wrote this code at 2019 July. The dataset I prepared is only for Jordan 1 Series, downloaded from stockx and too small, so the accurate training was hard to reach for this time
 
 Due to small training set, the result is very sensitive with learning rate of generator and discriminator model.
